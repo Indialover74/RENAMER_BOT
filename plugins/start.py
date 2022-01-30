@@ -13,7 +13,7 @@ async def start(client,message):
 	""",reply_to_message_id = message.message_id ,  
 	reply_markup=InlineKeyboardMarkup(
 	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/Mrperfect470") ], 
-	[InlineKeyboardButton("Cinema House Telegram Channel", url="") ]  ]))
+	[InlineKeyboardButton("Cinema House Telegram Channel", url="https://t.me/+IeKl_51uDCNjNjc1") ]  ]))
 
 
 
